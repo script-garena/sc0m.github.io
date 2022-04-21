@@ -3,7 +3,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-      <base href="https://sc0m.info">
+      <base href="/">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>HackerSo1 - Sc0m - TrickerVietNam - Wibu Team - Sp0m</title>
@@ -28,7 +28,7 @@ loadCSS("https://use.fontawesome.com/releases/v5.6.3/css/all.css");loadCSS("http
              
                 
     <!-- MDB -->
-    <link rel="stylesheet" href="css/mdb.min.css" />
+    <link rel="stylesheet" href="mdb.min.css" />
    
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11" type="70c317f770541c16a4f22ddd-text/javascript"></script>
     <style>
